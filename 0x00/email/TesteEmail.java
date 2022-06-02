@@ -1,4 +1,4 @@
-package email;
+
 
 public class TesteEmail {
     public static boolean testar_email_com_arroba() {
